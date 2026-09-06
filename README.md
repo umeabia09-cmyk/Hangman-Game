@@ -38,10 +38,13 @@ The project was created to practice Python fundamentals, game logic, user input 
 📂 Project Structure
 
 python-hangman-game/
+<br>
 │
+<br>
 ├── hangman.py
+<br>
 └── README.md
-
+<br>
 ---
 
 🚀 Getting Started
@@ -89,12 +92,19 @@ The word has 6 letters.
 ________________________________________
 
   +---+
+  <br>
   |   |
+  <br>
       |
+  <br>
       |
+  <br>
       |
+  <br>    
       |
+  <br>    
 =========
+<br>
 
 Word _ _ _ _ _ _
 Guess letters None
