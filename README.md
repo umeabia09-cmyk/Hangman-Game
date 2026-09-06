@@ -143,33 +143,6 @@ This project demonstrates:
 
 ---
 
-🔄 Game Flow
-
-Start Game
-    ↓
-Randomly Select Word
-    ↓
-Hide Letters
-    ↓
-Ask Player for a Letter
-    ↓
-Validate Input
-    ↓
-Is Letter in Word?
-   ↙              ↘
- Yes              No
-  ↓                ↓
-Reveal Letter   Reduce Attempts
-   ↘              ↙
-    Check Game Status
-          ↓
-   ┌──────┴──────┐
-   ↓             ↓
- Win           Lose
-   ↓             ↓
-Play Again? ←────┘
-
----
 
 🔮 Future Improvements
 
