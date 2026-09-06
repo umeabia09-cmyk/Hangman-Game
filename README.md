@@ -59,7 +59,7 @@ python --version
 
 Clone the Repository
 
-git clone https://github.com/YOUR_USERNAME/python-hangman-game.git
+git clone https://github.com/umeabia09-cmyk/python-hangman-game.git
 
 Navigate to the Project
 
